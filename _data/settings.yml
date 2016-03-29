@@ -1,9 +1,9 @@
 #-------------------------------
 # General Site Settings
 
-title: Artists Theme
-description: Thinker // Designer // YouTuber
-email: devtipsfordesigners@gmail.com
+title: Avi Michael </br> Digital Producer
+description: Video and Digital Producer 
+email: playrightproductions@gmail.com
 
 # NOTE: The Logo and Background image are defined in the all.sass document.
 
@@ -19,9 +19,9 @@ menu:
 # NOTE: Providing SEO information will make this website more searchable on the internet.
 
 seo:
-  description: 'Provide a description for your website to make it visible to search engines.'
-  rel-author: 'https://plus.google.com/u/0/+DevTipsForDesigners/'
-  rel-publisher: 'https://plus.google.com/u/0/+DevTipsForDesigners/'
+  description: 'Avi Michael is a digital producer and is the proprietor of Play Right Productions'
+  rel-author: ''
+  rel-publisher: ''
 
 #-------------------------------
 # Google Analytics Section
@@ -39,21 +39,20 @@ seo:
 # NOTE: The avatar is defined in the all.sass document.
 
 blurb: >
-  **Travis specializes in making things** for human people.
-  Most of the things he makes are [digital interfaces](http://travisneilson.com){:target="_blank"},
-  but he also puts effort into crafting [next-level beats](http://soundcloud.com/travis-neilson){:target="_blank"}
-  and [YouTube videos](http://youtube.com/user/devtipsfordesigners){:target="_blank"} about making codes happen.
+  **Avi specialises in producing digital content** that is informative, accessible and entertaining.
+  He has worked as a [video and film producer](http://www.playrightproductions.com.au){:target="_blank"},
+  and a [photographer](http://www.avimichaeldp.com){:target="_blank"} and so he has a truely end-to-end understanding of the digital content production workflow.
 
 
 skills:
-- {name: Communication, value: '9'}
+- {name: Communication, value: '8'}
 - {name: Organization, value: '7'}
-- {name: Learning, value: '10'}
-- {name: Teaching, value: '6'}
+- {name: Learning, value: '8'}
+- {name: Teaching, value: '10'}
 - {name: Planning, value: '7'}
 - {name: Visual Design, value: '5'}
-- {name: UX Design, value: '8'}
-- {name: Programming, value: '6'}
+- {name: UX Design, value: '6'}
+- {name: Programming, value: '5'}
 
 #-------------------------------
 # Work Section
@@ -76,36 +75,30 @@ projects:
 
 clients:
 - {avatar: 'face-aaroni.jpg',
-  name: 'Scott Summers',
-  title: 'Director of Design, OnToText Ind.',
-  quote: '<p><strong>While we all felt that Travis was a great</strong> asset to our team — and really worked hard to understand our products from the point of view of the customer — we also all agree he should shower more often.</p>',
+  name: 'Dani Kopoulos',
+  title: 'Program Director, The Educational Arts Team',
+  quote: '<p><strong>Avi had a strong attention to detail</strong> and a --- ---.</p>',
   logo: 'logo1.png'}
 - {avatar: 'face-atariboy.jpg',
-  name: 'Hank McCoy',
-  title: 'Eater of Salad, Antartica Int.',
-  quote: '<p><strong>Working with Travis was the highlight of my career.</strong> Other moments of note were collecting the largest number of paperclips in the office, and winning a trophy for saying "uh huh, and then what?" 30 times in a row to my girlfriend without her noticing.</p>',
+  name: 'Sabrina Dridje',
+  title: 'Director, The Made in NY Media Center',
+  quote: '<p><strong>Working with Avi was awesome.</strong> He often gets things.</p>',
   logo: 'logo2.png'}
 - {avatar: 'face-jackiesaik.jpg',
   name: 'Stacy Lang',
-  title: 'Social Media Girl, Quebec Int.',
+  title: ', Quebec Int.',
   quote: '<p><strong>Yea, I guess hes good at computers or something,</strong> but let me ask you this: If a cat always lands on its feet, and buttered bread always lands butter side down, what would happen if you tied buttered bread on top of a cat?</p>',
   logo: 'logo3.png'}
-- {avatar: 'face-teleject.jpg',
-  name: 'Cleatus Cassidy',
-  title: 'VP of Helmut, Lorem Sorem LLC.',
-  quote: '<p><strong>Back in old country</strong> only nerds who is playing on computers. Now all bros is wanting to make codes and junk. I lost foot in war. You dont see girls asking me about homework.</p>',
-  logo: 'logo4.png'}
+
 
 
 #-------------------------------
 # Contact Section
 
 social:
-- {icon: 'twitter', link: 'http://twitter.com/devtipsshow'}
-- {icon: 'dribbble', link: 'https://dribbble.com/travisneilson'}
-- {icon: 'behance', link: 'https://www.behance.net/travisneilson'}
-- {icon: 'youtube', link: 'https://www.youtube.com/DevTipsForDesigners'}
-- {icon: 'linkedin', link: 'http://www.linkedin.com/in/travisneilson/'}
+- {icon: 'twitter', link: 'http://twitter.com/playrightp'}
+- {icon: 'youtube', link: 'https://www.youtube.com/channel/UCiO7juku206oPrHyarxr6bA'}
+- {icon: 'linkedin', link: 'https://au.linkedin.com/in/avi-michael-27a0a8103'}
 
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
